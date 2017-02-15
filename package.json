@@ -1,0 +1,11 @@
+{
+  "name": "trakinas",
+  "version": "0.1.0",
+  "description": "A POC to test webpack + ES6 + uglifyJS + source-maps",
+  "main": "index.js",
+  "author": "Philip Sampaio Silva <philip.sampaio@gmail.com>",
+  "license": "Apache 2",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
