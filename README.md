@@ -12,17 +12,17 @@ References:
 
 This package uses yarn.
 
-		$ yarn install
+	$ yarn install
 
 ## Development
 
 You need to compile the assets with webpack. Run:
 
-		$ yarn run webpack
+	$ yarn run webpack
 
 To try in your browser, you can use the Python simple HTTP server:
 
-		$ python -m SimpleHTTPServer
+	$ python -m SimpleHTTPServer
 
 ## License
 
